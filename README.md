@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there
+I'm Evan, also known as Avern; depending on where you know me from. I'm a '27 student at UC Santa Barbara currently majoring in Computer Science, however I'm hoping to jump into some niche form of engineering.
+I don't really have a clue as to what I'm doing here or anywhere else, but I tend to dick around with random projects involving web and software development so feel free to check those out.
 
+Always open to learning new things, if anyone has a suggestion, question, or even a complaint, add me on discord 'avernamka' or email me at *contact@avern.dev*
 <!--
 **avern01/avern01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
