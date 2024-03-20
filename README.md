@@ -1,10 +1,4 @@
-### Hey there
-Comtraya! I'm Evan (or Avern online!) Truth be told? I don't know what I'm doing. I don't know why I'm here, what I'm doing or why. 
-But the real question is, does anyone? And* perhaps more importantly, **does it matter?**
-
-Always open to learning new things, if anyone has a suggestion, question, or even a complaint, add me on discord 'novoavern' or email me at *me@avern.dev*
-
-*yes i am aware you cannot start a sentence with "And", but omg throw me a bone its for effect* 
+### what up
 <!--
 **avern01/avern01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
