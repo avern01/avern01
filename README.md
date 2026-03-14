@@ -1,4 +1,4 @@
-### what up
+### i am avern
 <!--
 **avern01/avern01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
